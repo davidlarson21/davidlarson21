@@ -1,9 +1,9 @@
-## Olá!👋
+## Olá!
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=davidlarson21&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlarson21&layout=compact&langs_count=16&theme=ocean_dark"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=davidlarson21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlarson21&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <br>
 
@@ -31,4 +31,3 @@
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
