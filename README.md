@@ -25,7 +25,7 @@
     <a href = "https://www.linkedin.com/in/david-larson-524267268/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/davidlarsonxd/">
+    <a href = "https://www.instagram.com/davidlarsonxd/" target="_blank">
       <img width="25" src="instagram.png">
     </a>
 </div>
