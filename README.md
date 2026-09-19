@@ -1,9 +1,15 @@
 ## Hi!
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidlarson21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlarson21&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidlarson21&theme=tokyonight" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidlarson21&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -28,6 +34,8 @@
 <br>
 
 <div align="center">
+
+<img align="left" height="250" alt="coding-time" src="giphy.gif">
 
 <h1>Socials</h1>
 
