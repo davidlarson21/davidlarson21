@@ -3,7 +3,7 @@
 ### 💻 Full Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript;React+%7C+Next.js+%7C+Vue;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript;React+%7C+Next.js+%7C+Vue;Turning+ideas+into+code" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 
 ---
 
-## 🛠️ Technologies
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -63,15 +63,15 @@
 
 <p align="center">
   <a href="mailto:davidfagundes18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img width="35" src="gmail.svg" alt="Gmail">
   </a>
 
   <a href="https://www.linkedin.com/in/david-larson-524267268/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img width="30" src="linkedin.svg" alt="LinkedIn">
   </a>
 
-  <a href="https://www.instagram.com/davidlarsonxd/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/davidlarsonxd/" target="_blank">
+    <img width="30" src="instagram.png" alt="Instagram">
   </a>
 </p>
 
