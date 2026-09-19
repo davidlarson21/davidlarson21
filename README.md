@@ -1,4 +1,4 @@
-# 👋 Hi, I'm David Larson!
+# Hi!
 
 ### 💻 Full Stack Developer
 
@@ -9,6 +9,13 @@
 <p align="center">
   <img src="giphy.gif" height="230" alt="Coding animation">
 </p>
+
+---
+
+## 🎓 Education
+
+**Systems Analysis and Development**
+Graduated in Systems Analysis and Development
 
 ---
 
@@ -77,7 +84,7 @@
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Activity
 
 <p align="center">
   <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
